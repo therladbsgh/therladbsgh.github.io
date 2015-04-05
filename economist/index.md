@@ -3,7 +3,7 @@ layout: page
 title: Economist
 description: "The real time capitalist simulator"
 image:
-  feature: abstract-11.jpg
+  feature: abstract-3.jpg
 share: true
 comments: true
 ---

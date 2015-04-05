@@ -1,4 +1,4 @@
-title:            therladbsgh
+title:            Works(?) from Andrew
 description:      Site of therladbsgh.
 disqus_shortname: therladbsgh-github
 reading_time:     false
@@ -9,10 +9,10 @@ url:              #therladbsgh.github.io
 
 # Owner/author information
 owner:
-  name:           therladbsgh
+  name:           Andrew Kim
   avatar:         avatar.jpg
   bio:            "A high school student."
-  email:          jozef.telefonmast@gmail.com
+  email:          160684@hkis.edu.hk
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
@@ -35,7 +35,7 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Asia/Hong_Kong
 future:      true
 highlighter: pygments
 markdown:    kramdown
