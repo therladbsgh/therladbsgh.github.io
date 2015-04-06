@@ -39,3 +39,15 @@ able to make forum posts.
 <div markdown="0"><a href="http://therladbsgh-sampleapp.herokuapp.com/" class="btn">Visit the Site</a></div>
 
 
+##Just Another Website
+
+After making this site, I wanted to have some more practice with Github Pages (and
+subsequently HTML, CSS, SCSS, and Jekyll.) The result was having to make another static
+page website, which I named "Just Another Website" because there is not much meaning in
+that site (the site has no purpose at the moment. It was just a subject of practice.)
+
+The website has basic functionality: headers, footers, pages, blogs, media posts, etc. It
+should serve well for most websites if people need them.
+
+<div markdown="0"><a href="http://therladbsgh.github.io/just-another-website" class="btn">Visit the Site</a></div>
+
