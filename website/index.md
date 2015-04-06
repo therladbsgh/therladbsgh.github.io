@@ -18,8 +18,10 @@ those services instead of building one.
 Still, though, I find many benefits in creating websites from scratch. First of all,
 it's free (in terms of money, no guarantee for your time, of course.) I have not paid a
 single penny making these sites, whereas most other services require a minimum of USD$10
-or above monthly. Secondly, I have absolute, total control over what I want to do with
-this site, which is a privilege that is not as possible in other services.
+or above monthly. (That was a lie. I did pay for the domain name, but for the grand price
+of USD$0.99, which lasts for a year. Pretty nice deal.) Secondly, I have absolute, total 
+control over what I want to do with this site, which is a privilege that is not as 
+possible in other services.
 
 Nonetheless, if I begin working on a site, I'll make sure to list them here. I would also 
 like the opportunity to try out Wordpress sometime, if I were to overcome the 
