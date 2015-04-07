@@ -38,7 +38,7 @@ be used for various purposes. Perhaps to create a forum for discussion, perhaps 
 make a tutoring site, etc. I will have to eventually figure out a way to let users be
 able to make forum posts.
 
-<div markdown="0"><a href="http://therladbsgh-sampleapp.herokuapp.com/" class="btn">Visit the Site</a></div>
+<div markdown="0"><a href="http://therladbsgh-sampleapp.herokuapp.com/" target="_blank" class="btn">Visit the Site</a></div>
 
 
 ##Just Another Website
@@ -51,5 +51,5 @@ that site (the site has no purpose at the moment. It was just a subject of pract
 The website has basic functionality: headers, footers, pages, blogs, media posts, etc. It
 should serve well for most websites if people need them.
 
-<div markdown="0"><a href="http://therladbsgh.github.io/just-another-website" class="btn">Visit the Site</a></div>
+<div markdown="0"><a href="http://therladbsgh.github.io/just-another-website" target="_blank" class="btn">Visit the Site</a></div>
 

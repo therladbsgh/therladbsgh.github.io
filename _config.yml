@@ -10,13 +10,14 @@ url:              #therladbsgh.github.io
 # Owner/author information
 owner:
   name:           Andrew Kim
-  avatar:         avatar.jpg
-  bio:            "A high school student."
+  avatar:         avatar2.png
+  bio:            "A high school student, just trying to learn and do random things."
   email:          160684@hkis.edu.hk
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
   github:         therladbsgh
+  bitbucket:      therladbsgh
   stackexchange:  
   linkedin:       
   instagram:      

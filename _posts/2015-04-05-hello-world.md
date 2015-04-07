@@ -2,7 +2,7 @@
 layout: post
 title: "Hello World"
 description: "My first post."
-tags: [miscellaneous]
+tags: [website]
 ---
 
 Hello world.
