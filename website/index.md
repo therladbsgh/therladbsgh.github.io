@@ -53,3 +53,17 @@ should serve well for most websites if people need them.
 
 <div markdown="0"><a href="http://therladbsgh.github.io/just-another-website" target="_blank" class="btn">Visit the Site</a></div>
 
+##Yet Another Website
+
+To complete my trifecta of "Github Pages websites", I made yet another site, this time
+dealing with "Single-page websites", as opposed to a blog-esque website (Word of Telefonmast)
+and a "product website" (Just Another Website). As I do not have an immediate need for
+this site either (other than experimenting), the site remains content-free.
+
+The page consists of only one page (obviously), and is divided into sections which one
+can navigate through the header. Sections are fully customizable; one can put in a section
+or remove a section or edit a section to their liking. Each section has its own content,
+from text to images to portfolios.
+
+<div markdown="0"><a href="http://therladbsgh.github.io/yet-another-website" target="_blank" class="btn">Visit the Site</a></div>
+
