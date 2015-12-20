@@ -30,3 +30,5 @@ be in multiplayer so players can trade in real time and a proper market can form
 will get around to working on a multiplayer version (building a server and client.) If
 I get a graphic artist, or have the time myself, I will have to make a GUI for it as
 well.
+
+<div markdown="0"><a href="/games" target="_self" class="btn">Back to Games</a></div>

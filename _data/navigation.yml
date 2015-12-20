@@ -1,10 +1,16 @@
 # Menu navigation links
 
-- title: Economist
-  url: /economist/
+- title: Games
+  url: /games/
   
 - title: Websites
   url: /website/
+
+- title: Miscellaneous
+  url: /misc/
+
+- title: WCVG
+  url: /wcvg/
 
 - title: External Link
   url: https://www.youtube.com/watch?v=dQw4w9WgXcQ

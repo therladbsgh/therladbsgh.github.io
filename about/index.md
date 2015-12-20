@@ -2,7 +2,7 @@
 layout: page
 title: About
 image:
-  feature: abstract-5.jpg
+  feature: hipster.jpg
 comments: false
 modified: 2015-04-05
 ---
