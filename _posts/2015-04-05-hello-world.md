@@ -7,10 +7,7 @@ tags: [website]
 
 Hello world.
 
-Firstly, hooray for Github Pages, because now I don't have to pay 
-$100 using Wordpress and still have the full customization and flexibility (to an extent. 
-No dynamic pages is a terrible thing. Wordpress doesn't really seem to offer that 
-either, though.)
+This site is still kinda under construction.
 
 The purpose of this site is to list my work (if I get around to finishing something), 
 ramblings, etc as I go along.
