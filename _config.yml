@@ -33,8 +33,7 @@
 title: Andrew Kim
 subtitle: "@therladbsgh"
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the demo site for a Jekyll theme version of
-  HTML5 UP's sleek, responsive site template Prologue.
+  This is a site for Andrew Kim.
 author: Andrew Kim
 email: yun_ho_kim@brown.edu
 avatar: assets/images/avatar2.png
@@ -45,7 +44,7 @@ url: "" # the base hostname & protocol for your site
 
 # Social settings
 facebook_url:
-github_url:
+github_url: "https://github.com/therladbsgh"
 googleplus_url:
 instagram_url:
 linkedin_url:
