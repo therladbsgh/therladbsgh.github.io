@@ -1,3 +1,3 @@
 # therladbsgh.github.io
 
-Hello. This is the site of therladbsgh.
+Built with Jekyll using the Prologue theme.
