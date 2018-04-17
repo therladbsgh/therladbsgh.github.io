@@ -1,13 +1,7 @@
 # Menu navigation links
 
-- title: Games
-  url: /games/
-  
-- title: Websites
-  url: /website/
-
-- title: Miscellaneous
-  url: /misc/
+- title: Resume
+  url: /resume/
 
 - title: WCVG
   url: /wcvg/

@@ -1,4 +1,4 @@
-title:            The Word of Andrew
+title:            Andrew Kim
 description:      "@therladbsgh"
 disqus_shortname: therladbsgh-github
 reading_time:     false
@@ -11,29 +11,29 @@ url:              #therladbsgh.com
 owner:
   name:           Andrew Kim
   avatar:         avatar2.png
-  bio:            "A high school student, just trying to learn and do random things."
-  email:          160684@hkis.edu.hk
+  bio:            "An undergraduate in Brown University pursuing a B.S. in Computer Science and Cognitive Science."
+  email:          yun_ho_kim@brown.edu
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
+  twitter:
+  facebook:
   github:         therladbsgh
   bitbucket:      therladbsgh
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
+  stackexchange:
+  linkedin:
+  instagram:
+  flickr:
+  tumblr:
   # google plus id, include the '+', eg +mmistakes
   google_plus:
 
 # Background image to be tiled on all pages
-background: 
+background:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
-google_verify:      
+google_analytics:
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Hong_Kong
